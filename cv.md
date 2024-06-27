@@ -6,7 +6,7 @@
 
   **E-mail:** vafinak@yahoo.com
 
-  **Telegram:** [@Dorsalia] (https://t.me/Dorsalia)
+  **Telegram:** [@Dorsalia](https://t.me/Dorsalia)
 
   **GitHub:** [Dorsalia](https://github.com/Dorsalia)
 
