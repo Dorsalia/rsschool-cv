@@ -1,1 +1,1 @@
-# [rsschool-cv](https://dorsalia.github.io/rsschool-cv/cv)
+https://dorsalia.github.io/rsschool-cv
