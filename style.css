@@ -1,0 +1,39 @@
+body {
+margin: 0 auto;
+}
+
+nav {
+  background-color: #e1e1e1;
+}
+
+.name {
+  background-color: beige;
+}
+
+.title {
+  color: #474652
+}
+
+.contacts {
+  background-color: #e1e1e1;
+}
+
+.summary {
+  background-color: beige;
+}
+
+.skills {
+  background-color: #e1e1e1;
+}
+
+.education {
+  background-color: beige;
+}
+
+.code {
+  background-color: #e1e1e1;
+}
+
+.languages {
+  background-color: beige;
+}
